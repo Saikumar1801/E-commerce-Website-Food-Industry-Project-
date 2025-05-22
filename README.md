@@ -50,7 +50,7 @@ This project is a Node.js based e-commerce website specifically designed for the
 
 ## Project Structure
 
-
+```bash
 E-commerce Website (Food Industry Project)/
 ├── package.json
 ├── package-lock.json
@@ -75,6 +75,7 @@ E-commerce Website (Food Industry Project)/
 │ ├── single_product.ejs
 │ └── thank_you.ejs
 └── index.js
+```
 
 ## Setup and Installation
 
