@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "axios": "^1.9.0",
+    "body-parser": "^2.2.0",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "express-session": "^1.18.1",
+    "firebase": "^11.8.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.14.1"
+  }
+}
