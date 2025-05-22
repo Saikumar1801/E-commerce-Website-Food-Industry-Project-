@@ -4,6 +4,8 @@
 
 This project is a Node.js based e-commerce website specifically designed for the food industry. It allows users to browse a menu of food items, add them to a cart, proceed to checkout, and make payments. The application features a responsive design and integrates with backend services for product management, user sessions, and order processing.
 
+![screencapture-localhost-8080-2025-05-23-01_03_46](https://github.com/user-attachments/assets/b3ef5ce8-fc6b-4504-a7f9-37fafdc9feff)
+
 ## Features
 
 *   **Homepage:** Displays featured products, offers, and a general introduction to the restaurant/food service.
