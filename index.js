@@ -9,7 +9,7 @@ const pool = mysql.createPool({
    connectionLimit: 10, // max number of connections in pool
    host: "localhost",
    user: "root",
-   password: "Sai123", 
+   password: "", 
    database: "node_project"
 });
 
